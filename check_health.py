@@ -1,0 +1,1 @@
+def disk_full()
