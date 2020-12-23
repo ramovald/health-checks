@@ -1,7 +1,4 @@
 # health-checks
 Scripts for health checks
-Added another line
-Added third line
-Added fourth line
-Added fifth line
-Added sixth line
+
+This is script writes a successful message when everything is OK
